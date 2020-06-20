@@ -6,4 +6,4 @@
       <a href="https://fl-01.vips100.com/v2/delivery/data/e634b9d82e1746198e7e78b2e02b8b76/?LBC=meta&token=&aid=797185&rec_log=true&X-LENOVO-SESS-ID=f4a86b48e31f44428ac8a2b540aae1c9_797185_2418592_meta">_____下载地址（点击）_____
      <p>
       github
-     <img src="http://picnew12.photophoto.cn/20180130/githubmaotubiaobazhuayutubiao-29648032_1.jpg" width="250" height="39"/>
+     <img src="http://picnew12.photophoto.cn/20180130/githubmaotubiaobazhuayutubiao-29648032_1.jpg" width="50" height="50"/>
